@@ -46,3 +46,4 @@ function realizarCalculo() {
     resultatres.append(resultado)
 }
 
+var nombre= "Alessandro Cisneros"
